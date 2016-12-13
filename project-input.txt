@@ -1,0 +1,11 @@
+Project:Build Hallam University Lab,05/12/2016 17:30-10/12/2016 04:00
+Task:Employ Workers
+TA-M:05/12/2016 17:30-10/12/2016 04:00,"The Pub", "Sam,Jamie"
+TA-M:05/12/2016 17:30-10/12/2016 04:00,"The Sink", "Sam,Jamie"
+TA-B:05/12/2016 17:30-10/12/2016 04:00,123,"This fixed the issue"
+TA-W:05/12/2016 17:30-10/12/2016 04:00,"I worked on the testing"
+
+
+Project:Build cafe in Cantor ,05/12/2016 17:30-10/12/2016 04:00
+
+
